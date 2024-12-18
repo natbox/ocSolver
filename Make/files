@@ -1,4 +1,0 @@
-setDeltaT.C
-optochemicalFoam.C
-
-EXE = $(FOAM_APPBIN)/optochemicalFoam
