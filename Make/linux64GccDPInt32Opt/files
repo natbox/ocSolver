@@ -1,0 +1,4 @@
+SOURCE += setDeltaT.C
+SOURCE += optochemicalFoam.C
+
+EXE = $(FOAM_APPBIN)/optochemicalFoam
